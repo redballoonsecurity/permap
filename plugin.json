@@ -1,7 +1,7 @@
 {
    "pluginmetadataversion": 2,
    "name": "permap",
-   "author": "Red Balloon Security",
+   "author": "jepson2k, dannyp303",
    "type": [
       "helper"
    ],
