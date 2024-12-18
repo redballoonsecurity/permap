@@ -1,11 +1,11 @@
 # Per Mapper (permap)
 Author: Red Balloon Security
 
-_Support loading .per files into Binary Ninja._
+_Supports loading .per files into Binary Ninja._
 
 ## Description:
 
-Support loading .per files into Binary Ninja. Very similar to [svdmap](https://github.com/Vector35/svdmap) as it was used as a template for implementing this plugin.
+Supports loading .per files into Binary Ninja. Very similar to [svdmap](https://github.com/Vector35/svdmap) as it was used as a template for implementing this plugin.
 
 ## Usage
 
@@ -18,7 +18,7 @@ Support loading .per files into Binary Ninja. Very similar to [svdmap](https://g
 
 Comments can be displayed poorly in some instances so if that is the case you can turn comments off.
 
-To _disable_ comments set `SVDMapper.enableComments` to **false**.
+To _disable_ comments set `PERMapper.enableComments` to **false**.
 
 ## License
 
