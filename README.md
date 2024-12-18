@@ -1,5 +1,5 @@
 # Per Mapper (permap)
-Author: Red Balloon Security
+Author: jepson2k, dannyp303
 
 _Supports loading .per files into Binary Ninja._
 
